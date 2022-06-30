@@ -1,0 +1,33 @@
+html{
+  background-color: black;
+  color: white;
+}
+
+
+#title{
+  margin-left: 15%;
+}
+
+
+#Choose{
+  margin-left: 35%;
+  margin-top: 50px;
+}
+
+#result{
+  margin-left: 35%;
+}
+
+#player{
+  display: flex;
+}
+
+#player img{
+  width: 30%;
+}
+
+#player div {
+  margin-left: 10%;
+  margin-top: 50px;
+}
+
